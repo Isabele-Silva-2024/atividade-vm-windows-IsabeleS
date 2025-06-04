@@ -1,7 +1,7 @@
 # atividade-vm-windows-IsabeleS
 
 Isabele da Silva, Informática 2;
-(br)
+<br>
 Etapas realizadas;
 Breves descrições (legendas) para cada print
 01-
